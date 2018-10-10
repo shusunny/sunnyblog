@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Sunny Blog'
-description:	       '欢迎来到sunny的小窝'
+description:	       '  欢迎来到sunny的小窝'
 author:              'Sun'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

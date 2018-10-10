@@ -1,18 +1,11 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: about me
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+我是一名先进的共产党员，好好学习天天向上~
 
-### Getting Started
+### 关于我
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+> 毕业于上海大学数学系，然而毕业后在找不到工作的情况来到UCR成为Business研究生，在读商这段混吃等死在加州各处游玩的日子里，又发掘出了摄影的天赋树，誓将美国的大好风景全都拍下来装在手机里然后一个月后搁置了。毕业后在美国找工作又走上了码农这条不归路，现在主要研究ios和nodejs及相关技术。我的人生真是区折离奇，变幻莫测，然而这并不影响我成为一名具有社会主义价值观的优秀90后青年。
+其实我高中就有学好JAVA，成为一代CODE大神的梦想，然而经过高考的洗礼和大学优秀氛围的熏陶，我只收获了一个天梯偶尔上4000大部分在3800分段徘徊的DOTA2帐号，但是这些都不会影响我现在准备学好ios和node的决心和意志。因为我已经想好了，要是这些都没学好我就再转型去当产品经理去，如果实在在IT界混不下去了，我就先去蓝翔学挖掘机再去新东方学厨师然后熟练掌握了用挖掘机炒菜的绝活后卖身卖饭卖屁股给千千万万的码农们。

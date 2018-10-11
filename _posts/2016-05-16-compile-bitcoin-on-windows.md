@@ -22,8 +22,11 @@ From MinGW installation manager -> All packages -> MSYS
 选中以下package
 
 > msys-base class:bin
+
 > msys-autoconf class:bin
+
 > msys-automake class:bin
+
 > msys-libtool class:bin
 
 选完后在Installation里点 apply changes开始安装。他会自动下载安装好。

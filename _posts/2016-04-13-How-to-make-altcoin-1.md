@@ -22,7 +22,7 @@ tags: [bitcoin, C++]
 
 首先，进行ubuntu的命令行模式，创建我们的工作目录，你可以放在任何地方。
 
-```crystal
+```ruby
 mkdir src
 cd src
 ```
@@ -35,7 +35,7 @@ cd src
 
 如果下载的是tar.gz文件，我们需要对其进行解压。我们这里得到的是0.10.2的版本，请根据自己的版本号进行调整。
 
-```crystal
+```ruby
 cd ~/Downloads
 tar -zxvf bitcoin-0.10.2.tar.gz
 cp -r bitcoin-0.10.2 ~/src/bitcoin
@@ -48,7 +48,7 @@ cd ~/src
 ### 创建环境并编译比特币
 比特币的编译需要一定的环境要求，我们先创建环境以包证我们的山寨币也可以编译。
 
-```crystal
+```ruby
 su
 echo 'deb-src ftp://ftp.us.debian.org/debian/ sid main contrib non-free' >> /etc/apt/sources.list
 apt-get update
@@ -61,7 +61,7 @@ exit
 
 下面我们进行编译
 
-```crystal
+```ruby
 cd bitcoin
 aclocal
 automake --add-missing
@@ -71,7 +71,7 @@ make
 
 视电脑的运算速度大概需要几分钟到半小时不等的时间，编译成功后，我们可以用以下代码查询是否成功编译出了主要文件，如果其中出现了问题，一般都是由于库没有安装完全或版本不一致的情况，请参考上面分享的文章进行排查。
 
-```crystal
+```ruby
 ls src/bitcoind
 ls src/bitcoin-cli
 ls src/qt/bitcoin-qt
@@ -84,7 +84,7 @@ ls src/qt/bitcoin-qt
 ### 重新命名
 即然是新的电子币，那么里面的所有文件现在者需要一个新的名字了，我们仍以newcoin为例
 
-```crystal
+```ruby
 cd ~/src/newcoin
 find . -type f -print0 | xargs -0 sed -i 's/bitcoin/newcoin/g'
 find . -type f -print0 | xargs -0 sed -i 's/Bitcoin/Newcoin/g'
@@ -103,7 +103,7 @@ find . -exec rename 's/btc/NCN/' {} ";"
 
 下面我们更改客户端使用的端口号
 
-```crystal
+```ruby
 find . -type f -print0 | xargs -0 sed -i 's/8332/9443/' {} ";"
 find . -type f -print0 | xargs -0 sed -i 's/8333/9444/' {} ";"
 ```
@@ -114,7 +114,7 @@ find . -type f -print0 | xargs -0 sed -i 's/8333/9444/' {} ";"
 
 现在我们编译我们自己的newcoin
 
-```crystal
+```ruby
 aclocal
 automake --add-missing
 ./configure --with-incompatible-bdb

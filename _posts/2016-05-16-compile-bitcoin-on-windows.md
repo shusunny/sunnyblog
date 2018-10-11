@@ -21,13 +21,12 @@ http://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/downlo
 From MinGW installation manager -> All packages -> MSYS
 选中以下package
 
-> msys-base class:bin
-
-> msys-autoconf class:bin
-
-> msys-automake class:bin
-
-> msys-libtool class:bin
+```
+msys-base class:bin
+msys-autoconf class:bin
+msys-automake class:bin
+msys-libtool class:bin
+```
 
 选完后在Installation里点 apply changes开始安装。他会自动下载安装好。
 需要注意的是，确保不要安装**msys-gcc和msys-w32api** ，因为这两个包和我们的编译系统发生冲突。

@@ -200,6 +200,6 @@ sudo make
 rm -rf ~/.newcoin
 ```
 然后运行起来。如果一切顺利的话，程序会运行起来，然后我们就可以得到下面的程序
-![newcoin](/assets/img/newcoin.png)
+![newcoin](https://github.com/shusunny/sunnyblog/blob/gh-pages/assets/img/newcoin.png)
 
 不用羡慕上面的数值，既然所有的参数都是我们自己改的，当然可以在main.cpp里面修改区块数据，从而在短时间内挖到最多的币。

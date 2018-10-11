@@ -22,7 +22,7 @@ There is nothing new these days.
 
 I am learning Drunk Coding these days. That is an awesome golang course while the teacher always teach with wine.
 
-It's called Learn How To Code: Google's Go (golang) Programming Language
+It's called [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/learn-how-to-code/)
 
 Hope you guys can enjoy it.
 

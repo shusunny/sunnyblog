@@ -3,4 +3,6 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+If you are having any problems, any questions or suggestions, feel free to [email](mailto:sunzhen1135@gmail.com) me.
+
+任何问题都可以通过点击右上角的图际联系我～

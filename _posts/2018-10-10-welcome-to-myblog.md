@@ -16,4 +16,4 @@ I might open a new page for this blog and paste new link here.
 
 以后就在这里随便记录下我的更新好了。我会慢慢把内容移过来的
 
-> 原博地址: [shusunny](shusunny.github.io)
+> 原博地址: [shusunny](https://shusunny.github.io)

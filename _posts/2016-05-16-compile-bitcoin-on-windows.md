@@ -10,7 +10,7 @@ tags: [bitcoin, C++, windows]
 虽然比特币程序是跨平台的，在windows上编译显然不如在linux上那么简单快捷，但是经过我长时间的摸索，发现其实也没那么麻烦，只是有很多库需要下载。之前觉得麻烦是因为mingw无法复制粘贴编译需要用的代码。后来发现只需要用mingw shell去运行包括代码的脚本程序就好。
 其实也是比较方便的，只需动动手指，复制粘贴就好。
 
-> 本文参考 link: http://blog.sina.com.cn/s/blog_5922b3960101s5j9.html
+> 本文参考 http://blog.sina.com.cn/s/blog_5922b3960101s5j9.html
 
 ### 一、安装MINGW,MSYS
 msys是一个在windows平台模拟shell的程序。它可以让我们在windows平台下模拟我们的ubuntu shell进行操作。

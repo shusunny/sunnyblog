@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to myblog!"
 author: "sun"
-categories: blog
-tags: [documentation]
+categories: Blog
+tags: [Drunk Writing]
 ---
 
 I can't find my Hexo setting and I also don't want to use Nodejs anymore.

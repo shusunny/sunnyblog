@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/shusunny'}
+- {icon: 'github', link: 'https://github.com/shusunny/sunnyblog'}
 - {icon: 'facebook-square', link: 'https://www.facebook.com/zhen.sun.589'}
 - {icon: 'instagram', link: 'https://www.instagram.com/sunnnnnnyz/'}
 - {icon: 'weibo', link: 'https://www.weibo.com/u/2670299603'}

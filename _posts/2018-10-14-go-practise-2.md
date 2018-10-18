@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go语言之旅练习(2)"
+title: "Go语言练习 - 切片和map"
 author: "sun"
 categories: Golang
 tags: [Golang, Go Practise]

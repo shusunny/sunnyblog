@@ -2,7 +2,7 @@
 layout: post
 title: "在windows平台编译比特币客户端"
 author: "sun"
-categories: Cryptocurrencie
+categories: Blockchain
 tags: [bitcoin, C++, windows]
 ---
 

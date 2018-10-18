@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Go语言练习 - Method"
 author: "sun"
@@ -11,6 +12,7 @@ func (r receiver) identifier(parameters) (return(s)) { code }
 ```
 方法和函数的区别就在于方法的receiver参数写在函数体外面，并且方法针对的对象是自定义的type类。不能为内建类型声明方法（如 int 等）
 
+---
 ## 练习：Stringer
 
 > 通过让 IPAddr 类型实现 fmt.Stringer 来打印点号分隔的地址。
@@ -56,6 +58,7 @@ googleDNS: 8.8.8.8
 loopback: 127.0.0.1
 ```
 ---
+
 ## 练习：错误
 
 > 从之前的练习中复制 Sqrt 函数，修改它使其返回 error 值。
@@ -111,7 +114,8 @@ func main() {
 0 cannot Sqrt negative number: -2
 ```
 ---
-练习：Reader
+
+## 练习：Reader
 
 > 实现一个 Reader 类型，它产生一个 ASCII 字符 'A' 的无限流。
 

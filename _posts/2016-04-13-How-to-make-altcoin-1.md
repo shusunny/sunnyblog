@@ -2,7 +2,7 @@
 layout: post
 title: "如何仿照比特币创造自己的山寨币（一）"
 author: "sun"
-categories: Cryptocurrencie
+categories: Blockchain
 tags: [bitcoin, C++]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to myblog!"
 author: "sun"
-categories: Blog
+categories: Journal
 tags: [Drunk Writing]
 ---
 

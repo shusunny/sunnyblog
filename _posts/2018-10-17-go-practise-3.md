@@ -71,7 +71,7 @@ type ErrNegativeSqrt float64
 并为其实现
 ```go
 func (e ErrNegativeSqrt) Error() string
-方法使其拥有 error 值，通过 ErrNegativeSqrt(-2).Error() 调用该方法应返回 "cannot Sqrt negative number: -2"。
+方法使其拥有 error 值,通过 ErrNegativeSqrt(-2).Error() 调用该方法应返回 "cannot Sqrt negative number: -2"
 ```
 > *注意：* 在 Error 方法内调用 fmt.Sprint(e) 会让程序陷入死循环。可以通过先转换 e 来避免这个问题：fmt.Sprint(float64(e))。这是为什么呢？
 

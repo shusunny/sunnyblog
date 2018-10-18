@@ -65,11 +65,11 @@ loopback: 127.0.0.1
 Sqrt 接受到一个负数时，应当返回一个非 nil 的错误值。复数同样也不被支持。
 
 > 创建一个新的类型
-```
+```go
 type ErrNegativeSqrt float64
 ```
 并为其实现
-```
+```go
 func (e ErrNegativeSqrt) Error() string
 方法使其拥有 error 值，通过 ErrNegativeSqrt(-2).Error() 调用该方法应返回 "cannot Sqrt negative number: -2"。
 ```

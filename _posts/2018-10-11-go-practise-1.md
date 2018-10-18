@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go 练习：循环与函数"
+title: "Go语言练习 - 循环与函数"
 author: "sun"
 categories: Golang
 tags: [Golang, Go Practise]
@@ -8,7 +8,7 @@ tags: [Golang, Go Practise]
 
 [A Tour of Go](https://tour.golang.org/)是官方做的一个很棒Golang学习文档。个人觉得很适合用来学习go语言的基本用法。但是其课程内容较少，跳跃性很大，感觉像前面还在学1+1，后面练习就让你独立解方程了。因此摘选了Tour上的部分习题做解答并作为个人练习。
 
-## 练习一：循环与函数
+## 练习：循环与函数
 
 此练习位于流程与控制栏（control flow），原题如下：
 

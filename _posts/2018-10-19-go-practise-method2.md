@@ -13,6 +13,8 @@ tags: [Golang, Go Practise]
 > rot13Reader 类型已经提供。实现 Read 方法以满足 io.Reader。
 
 rot13是一种弱加密方法，将26个英文字母中的前13个和后13个按顺序对换。
+
+---
 ![rot13](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/475px-ROT13_table_with_example.svg.png "rot13")
 
 题目给出的代码为
@@ -133,7 +135,7 @@ func main() {
 ![]({{ site.github.url }}/assets/img/slice_solution.png "x+y/2图像")
 
 ---
-以上就是Go语言方法和接口部分的练习。方法和接口可以帮我们为不同类型的结构体进行规范化处理，所以说"ease of programming", 即"简单快乐的开发高性能程序。" 我们可以通过以下例子来感受方法和接口
+以上就是Go语言方法和接口部分的练习。方法和接口可以帮我们为不同类型的结构体进行规范化处理，所以说 **"ease of programming"**, 即"简单快乐的开发高性能程序。" 我们可以通过以下例子来感受方法和接口
 
 ```go
 package main

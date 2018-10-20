@@ -20,5 +20,6 @@ title: about me
 ![]({{ site.github.url }}/assets/img/seattle.jpg)
 
 ---
+> 图中是我在假装眺望西雅图的远方
 
 但愿两年后我再来改这页的时候，还有可用的内容给我，如果全划掉那就很尴尬了。就酱吧~ 

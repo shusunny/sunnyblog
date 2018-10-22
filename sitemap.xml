@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/menu/writing.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/menu/categories.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/menu/about.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/menu/contact.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-method2.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-method1.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-slice&amp;map.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/journal/the-missing-two-years.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-functions.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/journal/welcome-to-myblog.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/blockchain/compile-bitcoin-on-windows.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/blockchain/how-to-make-altcoin-2.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/blockchain/How-to-make-altcoin-1.html</loc>
+  <lastmod>2018-10-21T05:44:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

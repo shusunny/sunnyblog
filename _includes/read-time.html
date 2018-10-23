@@ -1,21 +1,21 @@
 {% if post.layout != post %}
   {% assign words = post.content | strip_html | number_of_words %}
   {% if words < 180 %}
-    less than 1 minute read
+    less than 1 minute to read
   {% elsif words < 360 %}
-    1 minute read
+    1 minute to read
   {% else %}
-    {{ words | divided_by:180 }} minute read
+    {{ words | divided_by:180 }} minute to read
   {% endif %}
 {% endif %}
 
 {% if post.layout == post %}
   {% assign words = content | number_of_words %}
   {% if words < 180 %}
-    less than 1 minute read
+    less than 1 minute to read
   {% elsif words < 360 %}
-    1 minute read
+    1 minute to read
   {% else %}
-    {{ words | divided_by:180 }} minute read
+    {{ words | divided_by:180 }} minute to read
   {% endif %}
 {% endif %}

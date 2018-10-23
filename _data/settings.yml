@@ -13,13 +13,13 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://github.com/shusunny/sunnyblog'}
-- {icon: 'facebook-square', link: 'https://www.facebook.com/zhen.sun.589'}
-- {icon: 'instagram', link: 'https://www.instagram.com/sunnnnnnyz/'}
-- {icon: 'weibo', link: 'https://www.weibo.com/u/2670299603'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/shusunny/'}
-- {icon: 'flickr', link: 'https://www.flickr.com/photos/144754548@N07/'}
-- {icon: 'envelope', link: 'mailto:sunzhen1135@gmail.com'}
+- {name: 'github', icon: 'github', link: 'https://github.com/shusunny/sunnyblog'}
+- {name: 'facebook', icon: 'facebook-square', link: 'https://www.facebook.com/zhen.sun.589'}
+- {name: 'instagram', icon: 'instagram', link: 'https://www.instagram.com/sunnnnnnyz/'}
+- {name: 'weibo', icon: 'weibo', link: 'https://www.weibo.com/u/2670299603'}
+- {name: 'linkedin', icon: 'linkedin', link: 'https://www.linkedin.com/in/shusunny/'}
+- {name: 'flickr', icon: 'flickr', link: 'https://www.flickr.com/photos/144754548@N07/'}
+- {name: 'email', icon: 'envelope', link: 'mailto:sunzhen1135@gmail.com'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text

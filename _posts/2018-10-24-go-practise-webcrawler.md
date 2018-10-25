@@ -32,11 +32,11 @@ type Fetcher interface {
 	Fetch(url string) (body string, urls []string, err error)
 }
 
+// -------------下面是我进行了修改的部分------------
+
 // 创建map用来存放已抓取的网页, wg组用来管理线程
 var m map[string]bool
 var wg sync.WaitGroup
-
-// -------------下面是我进行了修改的部分------------
 
 // TODO: 并行的抓取 URL。
 // TODO: 不重复抓取页面。

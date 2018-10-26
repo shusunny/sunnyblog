@@ -73,20 +73,22 @@ image: american-west-southwest-header-e1515116099712.jpg
 ---
 
 ## 羚羊彩穴，马蹄湾
-大峡谷附近的著名景点就是羚羊彩穴和马蹄湾了。这两个景点都在page小镇，还是非常值得一去的。羚羊彩穴是地表下，需要深入到谷底才别有一番洞天，就是要记得提前订参观的票（订票网站[在这里]( http://lowerantelope.com/)。不多说我就直接上图啦~
+大峡谷附近的著名景点就是羚羊彩穴和马蹄湾了。这两个景点都在page小镇，还是非常值得一去的。羚羊彩穴是地表下，需要深入到谷底才别有一番洞天，就是要记得提前订参观的票（订票网站[在这里]( http://lowerantelope.com/)）。不多说我就直接上图啦~
 ![](https://fr9284fb2if174w8g40vzal5-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/HB_sunset.jpg "Horseshoe Bend")
+
+羚羊彩穴在上面是看不出有什么特别的，下到沟里去才别有洞天
+
 ![](https://c2.staticflickr.com/2/1941/44756610074_fc1dc44432_b_d.jpg "Antelope")
 ![](https://c2.staticflickr.com/2/1980/43664666200_94b6af6d62_b_d.jpg)
 ![](https://c2.staticflickr.com/2/1926/45481789071_ff937a86fd_b_d.jpg)
 ![](https://content.paulreiffer.com/wp-content/uploads/2016/04/Into-The-Canyon-Paul-Reiffer-Guide-How-To-Shoot-Upper-Antelope-Navajo-Arizona-Page-Slot-Canyons-Blog-How-To-Tour-Photography.jpg)
-
 
 ---
 
 ## 盐湖城
 盐湖城(Salt Lake City)算上路途中唯数不多的大型城市了， 住的和吃的都比较丰富，可以在这里休息一下。盐湖城嘛，最有名的当然是它的大盐湖。
 ![](https://www.sltrib.com/resizer/4mguHB0JmN4oJ2IFctkUfmGo_oY=/970x0/filters:quality(100)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DCVIFQGAUJGTFMI6JLAD2OZ5LQ.jpg "Great Salt Lake")
-我们并没有过多的停留在盐湖城，只是看一眼，所以就到Great Salt Lake Marina这个地方看了一眼。有兴趣的同学可以到Antelope Island State Park，那个公园的景色应该会更好一些。
+我们并没有过多的停留在盐湖城，只是看一眼，所以就到Great Salt Lake Marina这个地方看了一眼。有兴趣的同学可以到**Antelope Island State Park**，那个公园的景色应该会更好一些。
 
 ---
 
@@ -98,7 +100,9 @@ image: american-west-southwest-header-e1515116099712.jpg
 ---
 我们的第一天是下午入园的，所以看了midway geyser basin和old faithful geyser。本以为老忠泉会很壮观，但是那天的喷发也只是just soso，想来是那天喷泉心情不怎么样。
 
-通过地图我们可以看到公园整个是类似于8字型，所以可以按上半圈和下半圈这样来安排行程。所以我们第二天去了West Thumb和Lake Village以及Canyon Village附近的瀑布(Lower Falls)。第三天走的上半圈看Norris Basin, Mammonth Springs, Lamer Valley最后返回到Norris的路线。说是Lamer Valley是动物最多的地区，但我们还是非常可惜地没有看到大黑熊和狼。总的来说黄石公园还是值得一去的，有奇山异石，瀑布，喷泉和野生动物。字不重要，还是上图吧！
+通过地图我们可以看到公园整个是类似于8字型，所以可以按上半圈和下半圈这样来安排行程。所以我们第二天去了West Thumb和Lake Village以及Canyon Village附近的瀑布(Lower Falls)。第三天走的上半圈看Norris Basin, Mammonth Springs, Lamer Valley最后返回到Norris的路线。说是Lamer Valley是动物最多的地区，但我们还是非常可惜地没有看到大黑熊和狼。总的来说黄石公园还是值得一去的，有奇山异石，瀑布，喷泉和野生动物。
+
+字不重要，还是上图吧！
 
 ![](https://c2.staticflickr.com/2/1969/45481959421_c935b7e8b7_b_d.jpg)
 ![](https://c2.staticflickr.com/2/1979/44568084695_60249057c2_b_d.jpg)
@@ -157,7 +161,7 @@ image: american-west-southwest-header-e1515116099712.jpg
 ![](https://rmsothebys-cache.azureedge.net/0/c/4/e/7/9/0c4e79bb60240c793d23dff922c1d5f35460262d.jpg)
 ![](https://cdn-5.motorsport.com/static/img/amp/500000/560000/566000/566600/566674/s6_284118/tusc-laguna-seca-2014-race-start-for-p-gtlm.jpg)
 
-**17 Mile Dr**（这段是私人领地，所以要交过路费大概$10，但是景色非常好，整条区域有度假村，Golf球场，林木也是各具特色。这段路是大家最喜欢的景点）
+**17 Mile Dr**（这段是私人领地，所以要交过路费大概$10，但是景色非常好，整条区域有度假村，Golf球场，林木也是各具特色。这段路是大家最喜欢的景点之一）
 ![](https://www.pebblebeach.com/content/uploads/PB-17-Mile-Drive-012113-3-311-JD-1539x1024.jpg)
 ![](https://images.carmelrealtycompany.com/webart/mls/306.jpg)
 
@@ -184,4 +188,4 @@ image: american-west-southwest-header-e1515116099712.jpg
 ![](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/cn_terranearesort_supplied_terraneaphotography3277333448oupdated_1280x640.jpg)
 
 ---
-好久没有写过游记或者日记了，也是最近闲来无事才想着把这次有趣的旅程记录下来。请忽略我流水帐一样的记法和面对壮观的大自然时匮乏的形容词~~很棒、很美、很壮观~~，就这样吧~
+很久没有写过游记或者日记了，也是最近闲来无事才想着把这次有趣的旅程记录下来。请忽略我流水帐一样的写法和面对壮观的大自然时匮乏的形容词~~很棒、很美、很壮观~~，就这样吧~

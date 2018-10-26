@@ -35,6 +35,10 @@ image: american-west-southwest-header-e1515116099712.jpg
 我个人最喜欢的是Studio Tour和新开的哈利波特。Tour主要带游客绕乐园游览一周，可以了解到好莱坞电影的制作过程和场面特效。哈利波特印象中是2016新开的，可以体验书中的众多情节，还能在里面买到法师们都爱喝的黄油啤酒。（那边的法师过来拉个桌子，谢谢！）
 ![](https://assets3.thrillist.com/v1/image/1687506/size/tmg-slideshow_l.jpg "Harry Potter")
 
+**Universal Studio Tour**
+
+![](https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2018/03/12135015/universal-studio-tour-king-kong-360-3d-a-1.jpg)
+
 迪士尼乐园分为主园区和Adventure Park。Adventure主要是过山车之类的活动，主园区晚上会有烟花表演。两个都想玩的同学可以分两天玩，根据自己的行程安排就好了。
 ![](https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2017/04/gmfdlp3895793.jpg  "Disney Land")
 ![](https://www.disneytouristblog.com/wp-content/uploads/2012/01/DSC_6151-as-Smart-Object-1-copy-1024x762.jpg "Fireworks")

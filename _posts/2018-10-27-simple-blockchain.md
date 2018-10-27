@@ -4,6 +4,7 @@ title: "用Go语言创建一个简易的区块链"
 author: "sun"
 categories: Blockchain
 tags: [Golang, blockchain]
+image: Image-for-Blockchain.jpeg
 ---
 
 Go语言作为新一代的编程语言，其天生支持多线程高并发的特点使其能够充分发挥多核处理器的性能。
@@ -26,8 +27,6 @@ Go语言用来创造简单，可靠，高效的程序。因此Google在创立Go�
  3. 将借阅信息添加到区块链
 
 有了这些信息，我们可以开始code了。
-
----
 
 ## Blocks 区块
 在区块链中，区块存储有价值的信息。该信息可以是实现区块链的系统所需的事务或一些其他信息 — 例如，时间戳或来自先前块的哈希值。
@@ -183,7 +182,7 @@ func (bc *Blockchain) AddBlock (data BookCheckout) {
 go get -u github.com/gorilla/mux
 ```
 
-在我们的主函数`main`中，编写创建web服务器所需的代码，并注册与区块链方法通信的路由。
+在我们的主函数`func main`中，编写创建web服务器所需的代码，并注册与区块链方法通信的路由。
 ```go
 func main() {
   // register router
@@ -197,9 +196,6 @@ func main() {
   log.Fatal(http.ListenAndServe(":3000", r))
 }
 ```
-In our main function, we have a router and three(3) routes and handlers defined. We'll create those handlers now.
-
-The getBlockchain handler will simply write back the blockchain as a JSON string in the browser:
 
 在主函数中，我们定义了一个路由和三个线程（route）和三个处理程序（HandleFunc）。 我们现在来创建这些处理程序。
 
@@ -270,7 +266,7 @@ func newBook(w http.ResponseWriter, r *http.Request) {
 }
 ```
 
-现在我们需要修改并完善主函数
+现在我们需要修改并完善主函数`func main`
 ```go
 func main() {
   // initialize the blockchain and store in var
@@ -298,8 +294,6 @@ func main() {
 }
 ```
 
----
-
 接下来我们只需要补全package和import信息
 ```go
 package main
@@ -318,6 +312,8 @@ import (
 	"github.com/gorilla/mux"
 )
 ```
+
+---
 
 至此我们的程序就写好了。运行的我们的程序：（或者运行你自己的程序名）
 ```go
@@ -347,7 +343,7 @@ curl -X POST http://localhost:3000/new \
 ```
 curl -X POST http://localhost:3000 \
   -H "Content-Type: application/json" \
-  -d '{"book_id": "generated_id", "user": "James Liu", 
+  -d '{"book_id": "fb98095972b27e378e06f526c66f63dc", "user": "James Liu", 
 "checkout_date":"2018-10-27"}'
 ```
 完成后刷新浏览器，可以看到"James Liu"借阅信息已经成功添加到我们的区块链中了。

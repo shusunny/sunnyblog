@@ -356,6 +356,6 @@ curl -X POST http://localhost:3000 \
 
 还有一篇值得一看的相似教程：[Code your own blockchain in less than 200 lines of Go!](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 
-而且完成时我发现我们的代码也只有197行， 或许我们的标题也可以改为”用200行Go代码完成一个区块链“。Really Cool~
+而且完成时我发现我们的代码也只有197行， 或许我们的标题也可以改为《用200行Go代码完成一个区块链》。Really Cool~
 
 完整的代码可以在我的[Github Repo](https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain)中找到。

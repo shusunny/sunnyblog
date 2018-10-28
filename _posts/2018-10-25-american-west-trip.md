@@ -13,7 +13,7 @@ image: american-west-southwest-header-e1515116099712.jpg
 
 ## 行程
 
-![]({{ site.github.url }}/assets/img/west_trip.png)
+[![]({{ site.github.url }}/assets/img/west_trip.png)](https://shusunny.github.io/sunnyblog/assets/img/west_trip.png)
 
 先大概说下行程，如上图所示，我们是从洛杉矶早上5点出发，先去了大峡谷，差不多3点左右到的，当天玩到日落能基本把大峡谷玩完。由于之前去过，而且朋友这次来的主要目的地是黄石公园，所以没有第二天再去大峡谷的计划。下一个目的地是羚羊彩穴和马蹄湾，我们由于人多，羚羊彩穴的page小镇订不到airbnb的房子，所以我们只能住在附近比较大的Flagstaff，第二天早上再赶到page。羚羊彩穴主要指Lower Antelope Canyon，由于整个tour必须有向导带路，所以提前预约Tour订好票会比较快。玩完 Page的两个景点就继续赶路到盐湖城，晚上在盐湖城住一晚后，第二天到黄石公园。我们在黄石玩了差不多3天，具体景点后面会说到，个人觉得3天基本能涵盖所有主要的景点。接下来是漫长的一天，我们开了近16个小时到旧金山。（由于之前去过了优胜美地并且之前听闻公园在关门整修，所以没有在中途逗留，P.s优胜美地是非常值得一去的）之后旧金山玩了两天，最后开一号公路回LA。
 （P.s真的应该在一号公路中间停留一晚的，因为一号公路有多段盘山，只能慢慢开，开到后半段就已经天黑了，所以后半段没有玩就直接开主路回去了，这可能是本次旅行最有遗憾的部分了。）
@@ -30,24 +30,24 @@ image: american-west-southwest-header-e1515116099712.jpg
 ### 环球影城和迪士尼
 
 环球影城(Universal Studios)主要是一个提供过山车体验的4D电影型主题公园。喜欢刺激的同学们一定不能错过这里。
-![](https://q-ec.bstatic.com/images/hotel/max1024x768/261/26120211.jpg "Universal studios")
+[![](https://www.travelforsenses.com/wp-content/uploads/2017/06/Universal-Studios-Los-Angeles-1024x576.jpg "Universal studios")](https://www.travelforsenses.com/wp-content/uploads/2017/06/Universal-Studios-Los-Angeles-1024x576.jpg)
 
 我个人最喜欢的是Studio Tour和新开的哈利波特。Tour主要带游客绕乐园游览一周，可以了解到好莱坞电影的制作过程和场面特效。哈利波特印象中是2016新开的，可以体验书中的众多情节，还能在里面买到法师们都爱喝的黄油啤酒。（那边的法师过来拉个桌子，谢谢！）
-![](https://assets3.thrillist.com/v1/image/1687506/size/tmg-slideshow_l.jpg "Harry Potter")
+[![](https://assets3.thrillist.com/v1/image/1687506/size/tmg-slideshow_l.jpg "Harry Potter")](https://assets3.thrillist.com/v1/image/1687506/size/tmg-slideshow_l.jpg)
 
 **Universal Studio Tour**
 
-![](https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2018/03/12135015/universal-studio-tour-king-kong-360-3d-a-1.jpg)
+[![](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/VCW_D_Universal_T2_Studio%20Tour%20-%20backlot%20filming_1280x642.jpg)](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/VCW_D_Universal_T2_Studio%20Tour%20-%20backlot%20filming_1280x642.jpg)
 
 迪士尼乐园分为主园区和Adventure Park。Adventure主要是过山车之类的活动，主园区晚上会有烟花表演。两个都想玩的同学可以分两天玩，根据自己的行程安排就好了。
-![](https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2017/04/gmfdlp3895793.jpg  "Disney Land")
-![](https://www.disneytouristblog.com/wp-content/uploads/2012/01/DSC_6151-as-Smart-Object-1-copy-1024x762.jpg "Fireworks")
+[![](https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2017/04/gmfdlp3895793.jpg  "Disney Land")](https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2017/04/gmfdlp3895793.jpg)
+[![](https://www.disneytouristblog.com/wp-content/uploads/2012/01/DSC_4287-copy.jpg "Fireworks")](https://www.disneytouristblog.com/wp-content/uploads/2012/01/DSC_4287-copy.jpg)
 
 ### Griffith天文台
 天文台是我比较喜欢的景点之一，在这里不仅可以看到好莱坞标志，晚上还可以看到整个洛杉矶市区的夜景，还能够学习到很多天文知识。
-![](https://media-cdn.tripadvisor.com/media/photo-w/01/2e/01/59/griffith-observatory.jpg "Griffith Observatory")
-![](https://lonelyplanetimages.imgix.net/a/g/hi/t/6daafce2f0fcc352cf7b299c431283e3-griffith-observatory.jpg "Griffith")
-![](https://cbsla.files.wordpress.com/2010/08/griffith_observatory_entrance_lawn_with_hollywood_sign.jpg "Hollywood Sign")
+[![](https://media-cdn.tripadvisor.com/media/photo-w/01/2e/01/59/griffith-observatory.jpg "Griffith Observatory")](https://media-cdn.tripadvisor.com/media/photo-w/01/2e/01/59/griffith-observatory.jpg)
+[![](https://lonelyplanetimages.imgix.net/a/g/hi/t/6daafce2f0fcc352cf7b299c431283e3-griffith-observatory.jpg "Griffith")](https://lonelyplanetimages.imgix.net/a/g/hi/t/6daafce2f0fcc352cf7b299c431283e3-griffith-observatory.jpg)
+[![](https://cbsla.files.wordpress.com/2010/08/griffith_observatory_entrance_lawn_with_hollywood_sign.jpg "Hollywood Sign")](https://cbsla.files.wordpress.com/2010/08/griffith_observatory_entrance_lawn_with_hollywood_sign.jpg)
 
 其他的must visit的景点就是**星光大道**和众多的海滩了。海滩虽然Santa Monica的名气很大，但人一多海就没有那么清澈了。所以我个人比较推荐的是Redondo Beach, Newport Beach和Laguna Beach。
 
@@ -71,27 +71,27 @@ image: american-west-southwest-header-e1515116099712.jpg
 
 一般进入后可以直奔Visitor Center，找到停车位后可以步行参观地图上的相应景点。西边的Grand Canyon Village主要是住宿区，能提前规划行程的同学可以订这里的住宿，住在园区内是真的非常方便，但是也是真的非常难订！Village那边有条步道我曾经尝试下去过，据说走完一个来回至少需要8-12个小时，而且真的是下山容易上山难，所以下去不到两个小时我就放弃自己了。从游客中心向东走也有很多景点，均需要开车并在相应景点停靠，直到最西边的Desert View。大的景点路上会有标识告诉你这里有岔路可以去，或者路边有很多人停靠的地方，都是有景或有动物在。 每个景点基本都是换个角度欣赏峡谷风光。
 
-![](https://cdn.shopify.com/s/files/1/1757/6701/products/photo_onlinestore_print_metal_confluence_shopify_1024x1024.jpg "Grand Canyon")
-![](https://bunkerdelamente.com/wp-content/uploads/2018/08/GC_confluence_kcaldon_GrandCanyonTrust.jpg "Grand Canyon")
+[![](https://upload.wikimedia.org/wikipedia/commons/a/aa/Dawn_on_the_S_rim_of_the_Grand_Canyon_%288645178272%29.jpg "Grand Canyon")](https://upload.wikimedia.org/wikipedia/commons/a/aa/Dawn_on_the_S_rim_of_the_Grand_Canyon_%288645178272%29.jpg)
+[![](https://www.rei.com/blog/wp-content/uploads/2017/10/PRW_060117_011_Grand_Canyon_Guide.jpg "Grand Canyon")](https://www.rei.com/blog/wp-content/uploads/2017/10/PRW_060117_011_Grand_Canyon_Guide.jpg)
 
 ---
 
 ## 羚羊彩穴，马蹄湾
 大峡谷附近的著名景点就是羚羊彩穴和马蹄湾了。这两个景点都在page小镇，还是非常值得一去的。羚羊彩穴是地表下，需要深入到谷底才别有一番洞天，就是要记得提前订参观的票（订票网站[在这里]( http://lowerantelope.com/)）。不多说我就直接上图啦~
-![](https://fr9284fb2if174w8g40vzal5-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/HB_sunset.jpg "Horseshoe Bend")
+[![](https://content.paulreiffer.com/wp-content/uploads/2013/08/Fine-Art-Limited-Edition-Print-Wall-Corporate-Decoration-Interior-Design-Paul-Reiffer-Photographer-Photography-High-End-Landscape-Cityscape-Buy-Own-Investment-Eye-Wonder-Horseshoe-Bend-Arizona.jpg "Horseshoe Bend")](https://content.paulreiffer.com/wp-content/uploads/2013/08/Fine-Art-Limited-Edition-Print-Wall-Corporate-Decoration-Interior-Design-Paul-Reiffer-Photographer-Photography-High-End-Landscape-Cityscape-Buy-Own-Investment-Eye-Wonder-Horseshoe-Bend-Arizona.jpg)
 
 羚羊彩穴在上面是看不出有什么特别的，下到沟里去才别有洞天
 
 ![](https://c2.staticflickr.com/2/1941/44756610074_fc1dc44432_b_d.jpg "Antelope")
 ![](https://c2.staticflickr.com/2/1980/43664666200_94b6af6d62_b_d.jpg)
 ![](https://c2.staticflickr.com/2/1926/45481789071_ff937a86fd_b_d.jpg)
-![](https://content.paulreiffer.com/wp-content/uploads/2016/04/Into-The-Canyon-Paul-Reiffer-Guide-How-To-Shoot-Upper-Antelope-Navajo-Arizona-Page-Slot-Canyons-Blog-How-To-Tour-Photography.jpg)
+[![](https://content.paulreiffer.com/wp-content/uploads/2016/04/Into-The-Canyon-Paul-Reiffer-Guide-How-To-Shoot-Upper-Antelope-Navajo-Arizona-Page-Slot-Canyons-Blog-How-To-Tour-Photography.jpg)](https://content.paulreiffer.com/wp-content/uploads/2016/04/Into-The-Canyon-Paul-Reiffer-Guide-How-To-Shoot-Upper-Antelope-Navajo-Arizona-Page-Slot-Canyons-Blog-How-To-Tour-Photography.jpg)
 
 ---
 
 ## 盐湖城
 盐湖城(Salt Lake City)算上路途中唯数不多的大型城市了， 住的和吃的都比较丰富，可以在这里休息一下。盐湖城嘛，最有名的当然是它的大盐湖。
-![](https://www.sltrib.com/resizer/4mguHB0JmN4oJ2IFctkUfmGo_oY=/970x0/filters:quality(100)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DCVIFQGAUJGTFMI6JLAD2OZ5LQ.jpg "Great Salt Lake")
+[![](https://www.sltrib.com/resizer/4mguHB0JmN4oJ2IFctkUfmGo_oY=/970x0/filters:quality(100)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DCVIFQGAUJGTFMI6JLAD2OZ5LQ.jpg "Great Salt Lake")](https://www.sltrib.com/resizer/4mguHB0JmN4oJ2IFctkUfmGo_oY=/970x0/filters:quality(100)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DCVIFQGAUJGTFMI6JLAD2OZ5LQ.jpg)
 我们并没有过多的停留在盐湖城，只是看一眼，所以就到Great Salt Lake Marina这个地方看了一眼。有兴趣的同学可以到**Antelope Island State Park**，那个公园的景色应该会更好一些。
 
 ---
@@ -99,7 +99,7 @@ image: american-west-southwest-header-e1515116099712.jpg
 ## 黄石公园
 终于到了这次旅行的重头戏 — 黄石公园，我们从盐湖城赶了半天路才到达黄石公园，途中多次狂奔到96迈并幸运的躲过警察，希望朋友们不要向我们学习，按限速开就好。美国被警察抓到超速还是很严重的。 我们当天下午就迫不及待地从西门进入了公园。
 从公园入口可以拿到类似于下图的公园地图
-![](https://yellowstone.net/maps/files/2012/06/yellowstone-map.jpg "Yellowstone Map")
+[![](https://yellowstone.net/maps/files/2012/06/yellowstone-map.jpg "Yellowstone Map")](https://yellowstone.net/maps/files/2012/06/yellowstone-map.jpg)
 
 ---
 我们的第一天是下午入园的，所以看了midway geyser basin和old faithful geyser。本以为老忠泉会很壮观，但是那天的喷发也只是just soso，想来是那天喷泉心情不怎么样。
@@ -132,7 +132,7 @@ image: american-west-southwest-header-e1515116099712.jpg
 ---
 
 **Lombard street 九曲花街**（晴天还是很好看的）
-![](https://baycityguide.com/media/00PU000000GO0wPMAT/Lombard-st-bottom-of-hill-SS1500x872.jpg)
+[![](https://baycityguide.com/media/00PU000000GO0wPMAT/Lombard-st-bottom-of-hill-SS1500x872.jpg)](https://baycityguide.com/media/00PU000000GO0wPMAT/Lombard-st-bottom-of-hill-SS1500x872.jpg)
 
 
 **Golden Gate Bridge 金门大桥**
@@ -140,11 +140,12 @@ image: american-west-southwest-header-e1515116099712.jpg
 
 晴天的大桥原来是这个样子的：
 
-![](https://www.history.com/.image/t_share/MTU3ODc5MDg1ODk3MTY0MTA1/golden-gate-bridge-3.jpg)
+[![](https://www.history.com/.image/t_share/MTU3ODc5MDg1ODk3MTY0MTA1/golden-gate-bridge-3.jpg)](https://www.history.com/.image/t_share/MTU3ODc5MDg1ODk3MTY0MTA1/golden-gate-bridge-3.jpg)
 
 ---
 
 大名鼎鼎的**斯坦福大学**就在旧金山附近，所以我们也顺路拜访了这座名校。很美，很有历史气息。（当时我就决定去这里上学了，要是我考不上就让我儿子来考）
+[![](https://www-media.stanford.edu/wp-content/uploads/2017/06/20191526/stanford-share.jpg "Stanford")](https://www-media.stanford.edu/wp-content/uploads/2017/06/20191526/stanford-share.jpg)
 ![](https://c2.staticflickr.com/2/1961/44756765754_c4004c7f97_b_d.jpg)
 ![](https://c2.staticflickr.com/2/1922/30541132407_2778a73e18_b_d.jpg)
 ![](https://c2.staticflickr.com/2/1947/45430126782_630c53b60b_b_d.jpg)
@@ -156,40 +157,44 @@ image: american-west-southwest-header-e1515116099712.jpg
 一路上风光很好，直接看图就好了。这段路上主要有这么几个景点：
 
 **Half Moon Bay（半月湾）**
-![](https://www.visithalfmoonbay.org/sites/default/files/styles/large_/public/2017-07/HMB%20State%20Park%20Beach2Sm.jpg)
+[![](https://www.visithalfmoonbay.org/sites/default/files/styles/large_/public/2017-07/HMB%20State%20Park%20Beach2Sm.jpg)](https://www.visithalfmoonbay.org/sites/default/files/styles/large_/public/2017-07/HMB%20State%20Park%20Beach2Sm.jpg)
 
 **Pigeon Point Lighthouse**
-![](https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Pigeon-Point-Lighthouse-Beach-149291828-Large-e1512521988206-1000x600.jpg)
+[![](https://c1.staticflickr.com/3/2644/3878008723_7ebb9d15f5_b.jpg)](https://c1.staticflickr.com/3/2644/3878008723_7ebb9d15f5_b.jpg)
 
 **Monterey**（这里有一条赛道，经常会看到传说级的好车，当然小镇本身也是很美的）
-![](https://rmsothebys-cache.azureedge.net/0/c/4/e/7/9/0c4e79bb60240c793d23dff922c1d5f35460262d.jpg)
+[![](https://rmsothebys-cache.azureedge.net/0/c/4/e/7/9/0c4e79bb60240c793d23dff922c1d5f35460262d.jpg)](https://rmsothebys-cache.azureedge.net/0/c/4/e/7/9/0c4e79bb60240c793d23dff922c1d5f35460262d.jpg)
 ![](https://cdn-5.motorsport.com/static/img/amp/500000/560000/566000/566600/566674/s6_284118/tusc-laguna-seca-2014-race-start-for-p-gtlm.jpg)
 
 **17 Mile Dr**（这段是私人领地，所以要交过路费大概$10，但是景色非常好，整条区域有度假村，Golf球场，林木也是各具特色。这段路是大家最喜欢的景点之一）
-![](https://www.pebblebeach.com/content/uploads/PB-17-Mile-Drive-012113-3-311-JD-1539x1024.jpg)
-![](https://images.carmelrealtycompany.com/webart/mls/306.jpg)
+[![](https://www.pebblebeach.com/content/uploads/PB-17-Mile-Drive-012113-3-311-JD-1539x1024.jpg)](https://www.pebblebeach.com/content/uploads/PB-17-Mile-Drive-012113-3-311-JD-1539x1024.jpg)
+[![](https://images.carmelrealtycompany.com/webart/mls/306.jpg)](https://images.carmelrealtycompany.com/webart/mls/306.jpg)
 
 **Carmel-By-The-Sea（卡梅尔小镇）**
-![](https://www.go4travelblog.com/wp-content/uploads/2016/03/Tuck-Box-Carmel-by-the-Sea-California.jpg)
+[![](https://www.go4travelblog.com/wp-content/uploads/2016/03/Tuck-Box-Carmel-by-the-Sea-California.jpg)](https://www.go4travelblog.com/wp-content/uploads/2016/03/Tuck-Box-Carmel-by-the-Sea-California.jpg)
 
 **Bixby Creek Bridge**
-![](https://upload.wikimedia.org/wikipedia/commons/3/30/Bixby_Creek_Bridge%2C_The_Big_Sur%2C_California.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/4/48/Bixby_Creek_Bridge%2C_CA_Coast_215_%28Chris%29_%2821612032076%29.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/Bixby_Creek_Bridge%2C_CA_Coast_215_%28Chris%29_%2821612032076%29.jpg)
 
 **Big Sur**（这里景色不在路边，可能需要步行进入靠海边的区域才会有美景，我们因为行程没有去）
-![](http://www.photoburst.net/travel-photography/2015/09/costal-drive-big-sur-california-usa-canon-eos-5d-ef-24-105mm-michael-horan/costal-drive-big-sur-california-usa-canon-eos-5d-ef-24-105mm-michael-horan.jpg)
+[![](http://www.photoburst.net/travel-photography/2015/09/costal-drive-big-sur-california-usa-canon-eos-5d-ef-24-105mm-michael-horan/costal-drive-big-sur-california-usa-canon-eos-5d-ef-24-105mm-michael-horan.jpg)](http://www.photoburst.net/travel-photography/2015/09/costal-drive-big-sur-california-usa-canon-eos-5d-ef-24-105mm-michael-horan/costal-drive-big-sur-california-usa-canon-eos-5d-ef-24-105mm-michael-horan.jpg)
 
 **Elephant Seal Vista Point**（这里海象集体沙滩晒太阳非常有趣）
-![](http://www.reisewuetig.com/wp-content/uploads/elephant-seal-vista-point/elephant-seal-vista-point-3.jpg)
+[![](http://www.reisewuetig.com/wp-content/uploads/elephant-seal-vista-point/elephant-seal-vista-point-3.jpg)](http://www.reisewuetig.com/wp-content/uploads/elephant-seal-vista-point/elephant-seal-vista-point-3.jpg)
 
 **Hearst Castle（赫氏古堡）**
-![](https://www.travelcaffeine.com/wp-content/uploads/2016/02/hearst-castle-california-006.jpg)
+[![](https://www.travelcaffeine.com/wp-content/uploads/2016/02/hearst-castle-california-006.jpg)](https://www.travelcaffeine.com/wp-content/uploads/2016/02/hearst-castle-california-006.jpg)
 
 **Solvang（丹麦小镇）**
-![](https://santabarbaraca.com/content/uploads/2015/08/solvang-santa-barbara-county.jpg)
+[![](https://santabarbaraca.com/content/uploads/2015/08/solvang-santa-barbara-county.jpg)](https://santabarbaraca.com/content/uploads/2015/08/solvang-santa-barbara-county.jpg)
 
 如果有空闲的时间，可以去**Santa Barbara**和**Malibu**这两个城市看看风光和海景。
-![](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/vc_spotlight_santabarbara_hero_st_rm_529573764_1280x640_0.jpg)
-![](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/cn_terranearesort_supplied_terraneaphotography3277333448oupdated_1280x640.jpg)
+
+**Santa Barbara**
+[![](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/vc_spotlight_santabarbara_hero_st_rm_529573764_1280x640_0.jpg)](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/vc_spotlight_santabarbara_hero_st_rm_529573764_1280x640_0.jpg)
+
+**Malibu**
+[![](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/cn_terranearesort_supplied_terraneaphotography3277333448oupdated_1280x640.jpg)](https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/cn_terranearesort_supplied_terraneaphotography3277333448oupdated_1280x640.jpg)
 
 ---
 很久没有写过游记或者日记了，也是最近闲来无事才想着把这次有趣的旅程记录下来。请忽略我流水帐一样的写法和面对壮观的大自然时匮乏的形容词~~很棒、很美、很壮观~~，就这样吧~

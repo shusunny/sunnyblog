@@ -336,7 +336,7 @@ curl -X POST http://localhost:3000/new \
 
 新书创建成功后，将会返回一个书目id，如下图：
 
-![add-info]({{ site.github.url }}/assets/img/add-info.png "add-info")
+[![add-info]({{ site.github.url }}/assets/img/add-info.png "add-info")](https://shusunny.github.io/sunnyblog/assets/img/add-info.png)
 
 有了id后，再发送类似下面的借阅信息（需要将刚才得到的id填入下面的"book_id"项）：
 
@@ -348,7 +348,7 @@ curl -X POST http://localhost:3000 \
 ```
 完成后刷新浏览器，可以看到"James Liu"的借阅信息已经成功添加到我们的区块链中了。
 
-![block-result]({{ site.github.url }}/assets/img/block-result.png "block-result")
+[![block-result]({{ site.github.url }}/assets/img/block-result.png "block-result")](https://shusunny.github.io/sunnyblog/assets/img/block-result.png)
 
 ---
 

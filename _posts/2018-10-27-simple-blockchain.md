@@ -20,7 +20,7 @@ Go语言用来创造简单，可靠，高效的程序。因此Google在创立Go�
 > 本文参考[Building A Simple Blockchain with Go](https://www.codementor.io/codehakase/building-a-simple-blockchain-with-go-k7crur06v)， 对部分内容进行翻译并加入了自己的理解。
 > 最终完成后的代码可以在我的[Github Repo](https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain)中找到
 
-在本文中，我们将为创建一个图书管理的区块链系统，我们的区块链将存储每本图书的借阅信息。程序的主要功能如下：
+在本文中，我们将创建一个图书管理的区块链系统，我们的区块链将存储每本图书的借阅信息。程序的主要功能如下：
 
  1. 添加一本新书
  2. 创建书的创始块
@@ -58,7 +58,7 @@ type Book struct {
   ISBN        string `json:"isbn:`
 }
 ```
-在Block结构中，Pos用于保存数据在链中的位置。Data是区块中需要保存的价值信息（在这种情况下是借阅信息）。`Timestamp`保存区块创建时的时间。`Hash`保存区块生成的哈希值 。`PrevHash`存储前一个块的哈希值。
+在Block结构中，Pos用于保存数据在链中的位置。Data是区块中需要保存的有价值信息（在这种情况下是借阅信息）。`Timestamp`保存区块创建时的时间。`Hash`保存区块生成的哈希值 。`PrevHash`存储前一个块的哈希值。
 
 在定义了`Block`结构的情况下，我们需要考虑对块进行哈希计算以用来正确的识别区块并保证块的排序。计算哈希值是区块链的一个非常重要的部分，并且哈希值在计算上是一项非常困难的操作（这就是为什么人们会购买GPU来挖比特币）。这是一个有意为之的架构设计，它使得加入新的区块十分困难，从而保证区块一旦被加入就很难再进行修改。
 
@@ -76,7 +76,7 @@ func (b *Block) generateHash() {
   b.Hash = hex.EncodeToString(hash.Sum(nil))
 }
 ```
-现在我们需要另一个函数CreateBlock用来创建新的区块
+现在我们需要另一个函数CreateBlock来创建新的区块
 ```go
 func CreateBlock(prevBlock *Block, checkoutItem BookCheckout) *Block {
   block := &Block{}
@@ -89,13 +89,13 @@ func CreateBlock(prevBlock *Block, checkoutItem BookCheckout) *Block {
   return block
 }
 ```
-正如函数上写的，`CreateBlock`函数需要传入两个参数：上一个区块和需要添加的结算项。且为了保证程序的简单，我们没有对传入的参数进行检查。
+正如函数上写的，`CreateBlock`函数需要传入两个参数：上一个区块和需要添加的借阅信息项。且为了保证程序的简单，我们没有对传入的参数进行检查。
 
 ---
 
 ## Creating the Blockchain 创建区块链
 
-我们已经为区块定义了结构，并写了一个创建区块的函数。 下面我们将定义区块链，其功能是保存这些区块的列表，以及一个将区块添加到区块链的`AddBlock`方法。
+我们已经为区块定义了结构，并写了一个创建区块的函数。 下面我们将定义区块链，即保存这些区块的列表，以及一个将区块添加到区块链的`AddBlock`方法。
 ```go
 // Blockchain is an ordered list of blocks
 type Blockchain struct {
@@ -338,7 +338,7 @@ curl -X POST http://localhost:3000/new \
 
 ![add-info]({{ site.github.url }}/assets/img/add-info.png "add-info")
 
-有了id后，再发送类似下面的借阅信息（需要将刚才得到的id填入下面的book_id项）：
+有了id后，再发送类似下面的借阅信息（需要将刚才得到的id填入下面的"book_id"项）：
 
 ```
 curl -X POST http://localhost:3000 \
@@ -346,7 +346,7 @@ curl -X POST http://localhost:3000 \
   -d '{"book_id": "fb98095972b27e378e06f526c66f63dc", "user": "James Liu", 
 "checkout_date":"2018-10-27"}'
 ```
-完成后刷新浏览器，可以看到"James Liu"借阅信息已经成功添加到我们的区块链中了。
+完成后刷新浏览器，可以看到"James Liu"的借阅信息已经成功添加到我们的区块链中了。
 
 ![block-result]({{ site.github.url }}/assets/img/block-result.png "block-result")
 
@@ -354,6 +354,8 @@ curl -X POST http://localhost:3000 \
 
 现在我们的区块链程序已经完成了。值得注意的是，与我们上面的程序相比，实际的区块链要复杂得多。上面的程序添加新块时非常容易，而实际上添加新块时则需要一些繁重的计算（Proof of Work）。本文旨在通过编写一个简单的程序帮大家更好地理解区块链以及其中必须的元素。
 
-还有一篇值得一看的相似教程：[Code your own blockchain in less than 200 lines of Go!](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)，而我们的代码也只有197行。
+还有一篇值得一看的相似教程：[Code your own blockchain in less than 200 lines of Go!](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
+
+而且完成时我发现我们的代码也只有197行， 或许我们的标题也可以改为”用200行Go代码完成一个区块链“。Really Cool~
 
 完整的代码可以在我的[Github Repo](https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain)中找到。

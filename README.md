@@ -16,5 +16,3 @@ This Lagrange theme have a lot of advantages:
 * Commenting support powered by [Disqus](https://disqus.com/).
 * Optimized for search engines.
 * LaTeX support through [MathJax](https://www.mathjax.org/).
-
-Open sourced under the [MIT license](https://github.com/LeNPaul/Lagrange/blob/gh-pages/LICENSE.md).

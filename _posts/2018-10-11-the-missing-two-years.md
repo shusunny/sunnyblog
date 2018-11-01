@@ -3,7 +3,7 @@ layout: post
 title: "The Missing Two years"
 author: "sun"
 categories: Journal
-tags: [Drunk Writing]
+tags: [Journal, Drunk Writing]
 image: il_570xN.1405274179_7e65.jpg
 ---
 

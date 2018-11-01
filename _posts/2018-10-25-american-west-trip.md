@@ -3,7 +3,7 @@ layout: post
 title: "美西自驾游记"
 author: "sun"
 categories: Journal
-tags: [Casual Writing]
+tags: [Casual Writing, Journal]
 image: american-west-southwest-header-e1515116099712.jpg
 ---
 

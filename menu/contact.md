@@ -3,8 +3,8 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [email](mailto:sunzhen1135@gmail.com) me.
+This site use Disqus Comment. Please feel free to leave a comment at the bottom of the article. Or if you are having any problems, any questions or suggestions, you can click the social icons at top-right of this page to contact me. 
 
-因本博客流量较少，且暂时没找到合适的中文评论模版，所以评论功能暂时关闭。
+经过本人的精挑细选，还是决定采用Disqus评论系统，个人认为国内做的比较好的多说去年已经关闭了，所以暂时找不到其他评论模版。
 
-有任何问题都可以通过点击右上角的图际联系我~ (Facebook, Github, 微博, E-mail都可以)
+不想注册Disqus帐号或无法访问的朋友们可以通过点击右上角和屏幕最下方的社交图标联系我~ (Facebook, Github, 微博, E-mail都可以)

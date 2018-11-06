@@ -29,24 +29,24 @@ import (
 )
 
 func Pic(dx, dy int) [][]uint8 {
-	var ret = make([][]uint8, dy)
-	//外层切片
-	for x := 0; x < dy; x++ {
-		ret[x] = make([]uint8, dx)
-		//内层切片
-		for y := 0; y < dx; y++ {
-			ret[x][y] = uint8((x + y) / 2)
-			//给内层切片每个元素赋值，可以更改为题目中的其他函数
+	// 创建一个外层长为dy的二维切片
+	p := make([][]uint8, dy)
+	// 遍历p, 为每一个外层的切片创建一个内层切片
+	for x := range p {
+		p[x] = make([]uint8, dx)
+		for y := range p[x] {
+			// 给每一个元素赋值，下面的函数可以更改为题目中的其他函数
+			p[x][y] = uint8((x + y) / 2)
 		}
 	}
-	return ret
+	return p
 }
 
 func main() {
 	pic.Show(Pic)
 }
-
 ```
+
 运行程序可以得到256px*256px的图片，如下图所示
 
 ![]({{ site.github.url }}/assets/img/slice_solution.png "x+y/2图像")
@@ -68,7 +68,8 @@ func main() {
 	fmt.Printf("Fields are: %q", strings.Fields("  foo bar  baz   "))
 }
 ```
-语句将输出"foo","bar"和"baz", 所以我们用string.Fields(s)会把语句s中的单词列出。所以此练习的代码为
+
+语句将输出"foo","bar"和"baz", 所以我们用string.Fields(s)会把语句s中的单词列出并返回一个[]string。所以此练习的代码为
 ```go
 package main
 
@@ -79,9 +80,9 @@ import (
 )
 
 func WordCount(s string) map[string]int {
-	m := make(map[string]int) //创建map
+	m := make(map[string]int) // 创建map
+	// 用range语句遍历得到的切片s，并对出现的每一个词汇在我们的计数器c上加1
 	for _, c := range strings.Fields(s) {
-		//遍历s，并对出现的每一个词汇在我们的计数器c上加1
 		m[c]++
 	}
 	return m
@@ -91,6 +92,7 @@ func main() {
 	wc.Test(WordCount)
 }
 ```
+
 程序运行输出结果如下：
 ```
 PASS
@@ -129,6 +131,7 @@ func main() {
 	}
 }
 ```
+
 可以看到已经有打印结果的主函数了，我们要做的只是将fibonacci数列的逻辑写入到func fibonacii中去。解答如下
 ```go
 package main

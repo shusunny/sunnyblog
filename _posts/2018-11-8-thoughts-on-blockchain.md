@@ -4,7 +4,7 @@ title: "我所了解的加密货币与区块链"
 author: "sun"
 categories: Journal
 tags: [Casual Writing, Blockchain]
-image: cryptocurrency.png
+image: BiteMyCoin-Cryptocurrency.png
 ---
 
 本文记录一些关于我对加密货币以及区块链的一些思考和感悟。(Some Thoughts on Cryptocurrency and Blockchain)

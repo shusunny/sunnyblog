@@ -3,7 +3,7 @@ layout: post
 title: "用Go语言创建一个简易的区块链"
 author: "sun"
 categories: Blockchain
-tags: [Golang, blockchain]
+tags: [Golang, Blockchain]
 image: Image-for-Blockchain.jpeg
 ---
 

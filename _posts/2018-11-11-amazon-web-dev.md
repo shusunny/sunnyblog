@@ -80,7 +80,7 @@ sudo ./yourprogram
 - upstart
 - system.d
 
-## 这里我们用system.d的方式
+这里我们用system.d的方式
 
 首先我们需要在系统system文件夹中创建配置文件
 ```

@@ -114,7 +114,7 @@ tree 1 == tree 2: false
 根据我的经验，程序的并发可以提高程序的运行速度，但需要更强的逻辑性来保证程序以及数据的完整性，并应该及时适当地关闭并发程序，以免内存以及性能的浪费。
 
 ---
-下面是本练习的完整程序:
+Go Tour的所有练习代码都可以在我的[Github Repo Go-tour-solutions](https://github.com/shusunny/Go-Practice/tree/master/Go-tour-solutions)中找到。下面是本练习的完整代码:
 
 ```go
 package main

@@ -145,4 +145,6 @@ func (r MyReader) Read(b []byte) (int, error) {
 ```
 看到输出结果为"OK!"就OK啦。（其实刚开始我也没太看懂题目要干什么，在查看了加载包中的函数后才明白。
 打开[golang.org/x/tour/reader](https://godoc.org/golang.org/x/tour/reader), 
-再点击里面的[func Validate](https://github.com/golang/tour/blob/master/reader/validate.go)就能看到这个给我们输出OK的函数在后台做了些什么
+再点击里面的[func Validate](https://github.com/golang/tour/blob/master/reader/validate.go)就能看到这个给我们输出OK的函数在后台做了些什么。
+
+Go Tour的所有练习代码都可以在我的[Github Repo Go-tour-solutions](https://github.com/shusunny/Go-Practice/tree/master/Go-tour-solutions)中找到。

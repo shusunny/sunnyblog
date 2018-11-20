@@ -135,7 +135,9 @@ func main() {
 ![]({{ site.github.url }}/assets/img/slice_solution.png "x+y/2图像")
 
 ---
-以上就是Go语言方法和接口部分的练习。方法和接口可以帮我们为不同类型的结构体进行规范化处理，所以说 **"ease of programming"**, 即"简单快乐的开发高性能程序。" 我们可以通过以下例子来感受方法和接口
+以上就是Go语言方法和接口部分的练习。Go Tour的所有练习代码都可以在我的[Github Repo Go-tour-solutions](https://github.com/shusunny/Go-Practice/tree/master/Go-tour-solutions)中找到。
+
+方法和接口可以帮我们为不同类型的结构体进行规范化处理，所以说 **"ease of programming"**, 即"简单快乐的开发高性能程序。" 我们可以通过以下例子来感受方法和接口
 
 ```go
 package main

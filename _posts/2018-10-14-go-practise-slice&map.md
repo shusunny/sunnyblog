@@ -156,4 +156,4 @@ func main() {
 	}
 }
 ```
-上面就是Go语言之旅中三个基础练习的解答
+上面就是Go语言之旅中三个基础练习的解答，Go Tour的所有练习代码都可以在我的[Github Repo Go-tour-solutions](https://github.com/shusunny/Go-Practice/tree/master/Go-tour-solutions)中找到。

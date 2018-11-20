@@ -6,7 +6,9 @@ categories: Golang
 tags: [Golang, Go Practise]
 ---
 
-[A Tour of Go](https://tour.golang.org/)是官方做的一个很棒Golang学习文档。个人觉得很适合用来学习go语言的基本用法。但是其课程内容较少，跳跃性很大，感觉像前面还在学1+1，后面练习就让你独立解方程了。因此摘选了Tour上的部分习题做解答并作为个人练习。
+[A Tour of Go](https://tour.golang.org/)是官方做的一个很棒Golang学习文档。个人觉得很适合用来学习go语言的基本用法。但是其课程内容较少，跳跃性很大，感觉像前面还在学1+1，后面练习就让你独立解方程了。因此摘选了Tour上的习题做解答并作为个人练习。
+
+Go Tour的所有练习代码都可以在我的[Github Repo Go-tour-solutions](https://github.com/shusunny/Go-Practice/tree/master/Go-tour-solutions)中找到。
 
 ## 练习：循环与函数
 

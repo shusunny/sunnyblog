@@ -9,108 +9,123 @@
 
 <url>
   <loc>https://shusunny.github.io/sunnyblog/</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/menu/writing.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/menu/categories.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/menu/about.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/menu/contact.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/golang/go-channel.html</loc>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/golang/two-sum-leetcode.html</loc>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/web-dev/amazon-web-dev.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/journal/thoughts-on-blockchain.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/journal/before-twenty-seven.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/page2/</loc>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/blockchain/simple-blockchain.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/journal/american-west-trip.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-webcrawler.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-binarytree.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-method2.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-method1.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-slice&amp;map.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shusunny.github.io/sunnyblog/journal/the-missing-two-years.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/golang/go-practise-functions.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shusunny.github.io/sunnyblog/journal/welcome-to-myblog.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/blockchain/compile-bitcoin-on-windows.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/blockchain/how-to-make-altcoin-2.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shusunny.github.io/sunnyblog/blockchain/How-to-make-altcoin-1.html</loc>
-  <lastmod>2018-11-12T02:01:46+00:00</lastmod>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/page3/</loc>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shusunny.github.io/sunnyblog/page4/</loc>
+  <lastmod>2019-06-30T23:23:21+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
